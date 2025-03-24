@@ -1,4 +1,4 @@
-Hi there, I'm Panwanke! 👋
+Hi there, I'm Wanke Pan! 👋
 
 ## About Me
 I'm a Ph.D. student in psychology, focusing on Computational Cognition at Nanjing Normal University. You can reach me at panwanke2023@gmail.com. Check out my personal website [here](https://homepage-panwanke.vercel.app/). My GitHub username is `panwanke`, and on other platforms, I'm known as `@EpoolPan`.
